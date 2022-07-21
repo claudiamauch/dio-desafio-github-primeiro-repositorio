@@ -1,0 +1,6 @@
+GIT BASH
+
+Ctrl + l = limpar a tela
+ls = listar diretório
+mkdir = cria diretório
+ls -a = lista arquivos ocultos
